@@ -20,5 +20,6 @@ from home.views import my_store
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('home/', my_store, name='store' )
+    path('home/', my_store, name='store' ),
+    path("accounts/", include("allauth.urls")),
 ]
