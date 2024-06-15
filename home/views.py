@@ -1,6 +1,7 @@
 from django.shortcuts import render
-from django.http import HttpResponse
 
 # Create your views here.
-def my_store(request):
-    return HttpResponse("Hello, Store!")
+def index(request):
+    """ A view to return the index page """
+    
+    return render(request, 'home/index.html')
