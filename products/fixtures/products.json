@@ -1,0 +1,58 @@
+[
+    {
+       "pk":1,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001340155",
+          "name":"Mario Kart 8 Deluxe",
+          "description":"Mario Kart 8 Deluxe includes all downloadable content (DLC) for Mario Kart 8, including characters, courses, and vehicle components, into a single product for Nintendo Switch, as well as being the first Mario game for the console.",
+          "price":53.99,
+          "category":2,
+          "rating":4.6,
+          "image_url":"https://storage.googleapis.com/kagglesdsdata/datasets/5223335/8707800/Mario_Kart_8.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20240617%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240617T003900Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=9f33121cd958e426ae2ff2bdca9668225ad727a76a603b0d2f26bbf875b962bf8eda0b3b659a329b3f305638b9c03aaec33292636cc5d34c56a7019abd454122e44ca710205bcb2beff954edab2017882251e45b6d88ba2657551702fdd31422bdfa5761dd67f83b171700086ec7ac9709cf307d867916c09622d93e8b541978b913dc6a80f5dfcac3412f23cc1b383c387363c16402da3e743cc484507893a2138e693be1e8d5bd025fd1a6cbed1df02f7704e3059d94998edb3566f238781ed370ca1157f0bd9b4a8eda32b4eb0e734ee7e5b2469e979324ad48e9276537d292aa883ff69148cda98f6061852d3a2272ee91b7362d91aba069c333d822c7b6",
+          "image":"Mario_Kart_8"
+       }
+    },
+    {
+       "pk":2,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001600425",
+          "name":"The legend of zelda Breath of wild",
+          "description":"The Legend of Zelda: Breath of the Wild is a 2017 action-adventure game developed and published by Nintendo for the Nintendo Switch and Wii U.",
+          "price":58.99,
+          "category":2,
+          "rating":4.6,
+          "image_url":"https://storage.googleapis.com/kagglesdsdata/datasets/5223335/8707800/Breath_Of_The_Wild.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20240617%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240617T004103Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=300eeed7bbb85259309aeeaca375136fc4b3dadcd398d73c76c0f5020a2480bff9fed946ad4cbed3f7144cb9ed4ce3900c8b8e879cd821a64e2666d6dea1ade36057d763fd60e061a42dd4621eb1a359a549508ca0fbebba7cd8f9be37ff267f5292d4e505e7d2e6ff33321f56edda3db322f86fe9c328872907e1fd1d39f5c8a26560f77bed13c5ca0ce3eba4329a7d46ae4b6c7f675711a5e51b25986127b44184ce840ae8d59b7aae3d58ebc392db8b21aefc5303abcabcfc3e549a426ad68f250dbab083f204a27c091834db09d05467a5447433a0480371430bfe73a74c2b21380845e9702f37342ce80ccf632231eaffeed9bfb4441f56dca8931fd7f0",
+          "image":"Breath_Of_The_Wild.jpg"
+       }
+    },
+    {
+       "pk":3,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001730010",
+          "name":"Hogwarts Legacy",
+          "description":"Hogwarts Legacy - Home. Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books.",
+          "price":59.99,
+          "category":2,
+          "rating":4.7,
+          "image_url":"https://storage.googleapis.com/kagglesdsdata/datasets/5223335/8707800/Harrypotter_Hogwarts.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20240617%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240617T004310Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=2fb3703e6338e12c6b93163f7ecddedb39260ff768b2cb2941c66f4f9f7d94b4485241f6149ab70d0dbeef5044c811f1b6cf311ba8fba555f021164815665ead9d239647230a59b4494da70b7f2511029ca5049074b8978313a75e0038422a7372e6d785c278a21c20b9cf4e79463c20e888d56dd59a42313c9577ad7c2471579310a6c0c5e90775297253d9770463027dc7acbee9e57dd59046601634a8ef883cf14299998375ae8409a5912e3085d9653f9a9d475c7e467ad8ca2e55d9e742b5b56f58e8472cbe8c04dfa5ab7ff6178b3bec9921e3c4b79da43edbf5f29226914c18f0d222c0d716cba6ddab607aaa29bf467d8d26a85fa982d5fb165d92f4",
+          "image":"Harrypotter_Hogwarts.jpg"
+       }
+    },
+    {
+       "pk":4,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001890157",
+          "name":"Playstation 5",
+          "description":"The PlayStation 5's main hardware features include a solid-state drive customized for high-speed data streaming to enable significant improvements in storage performance, an AMD GPU capable of 4K resolution display at up to 120 frames per second, hardware-accelerated ray tracing for realistic lighting and reflections, ...",
+          "price":399.99,
+          "category":1,
+          "rating":3.0,
+          "image_url":"https://storage.googleapis.com/kagglesdsdata/datasets/5223335/8707961/playstation_5.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20240617%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240617T005558Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=0e6467ba8e85fbec448068c6fe6a7a39373fc82c048d58fe7880279968ccebfcc1a8d65562fcbcbc5c9cca903b870b1a560c357959d0ed5f93872f6c98359e97800ff4887caabcdb5397fdf552435b151f70f4deedd58521caecf8759d9fa4786d9274c5f96f5627fce3f7056aa162310160e035031f4b64e181425e5ab0e0079277636efd505f944d2457a40e5857748c35d6feffd7e0b29ad6fe5471d3c47f91493ab8a33c6497e8282978882bab25d05ee29fab9c04b18cc7782412ee4f5e97efdc584770e02e6024fdd26a0e2b84091d6004b8b120517b9c7a30ab2bbc9f92bb6e3d342a7a300c108822c2d43407706dff16024873ed525ffc21c2954e36",
+          "image":"playstation_5.jpg"
+       }
+    }
+]
